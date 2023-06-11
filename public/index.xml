@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sto</title>
-    <link>http://example.org/</link>
+    <link>https://summer-cherry-4294.on.fleek.co/</link>
     <description>Recent content on sto</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://summer-cherry-4294.on.fleek.co/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
